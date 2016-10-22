@@ -12,6 +12,8 @@ namespace TestGit
         {
             Console.WriteLine("Hello1");
             Console.WriteLine("Change1");
+            Console.WriteLine("Change from Laptop");
+            Console.WriteLine("Change again from Laptop");
         }
     }
 }
